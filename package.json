@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Krenichniy.github.io/swat-test",
+  "homepage": "https://orch20.github.io/Ice-cream-landing-page",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /swat-test/"
